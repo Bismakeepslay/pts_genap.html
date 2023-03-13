@@ -1,0 +1,12 @@
+*, html, body{
+}
+h1 {
+    color: red;
+}
+p {
+    color: green;
+}
+h2 {
+    border: 5px solid #408f10;
+    color: blue;
+}
